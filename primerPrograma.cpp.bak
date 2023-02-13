@@ -6,5 +6,10 @@ int main()
 	printf("prueba de modificación");
 	printf("nueva linea");
 	printf("cambio en rama master");
+<<<<<<< Updated upstream
+	printf("cambio nuevo");
+=======
+	printf("cambios a ser suspendido");
+>>>>>>> Stashed changes
 	return 0;
 }
