@@ -6,6 +6,5 @@ int main()
 	printf("prueba de modificación");
 	printf("nueva linea");
 	printf("cambio en rama master");
-	printf("cambio nuevo");
 	return 0;
 }
