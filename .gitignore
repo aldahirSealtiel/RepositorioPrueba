@@ -1,1 +1,8 @@
 *.orig
+.gitignore.bak
+primerPrograma_BACKUP_2122.cpp
+primerPrograma_LOCAL_2122.cpp
+primerPrograma_LOCAL_3137.cpp.bak
+primerPrograma_REMOTE_2122.cpp
+primerPrograma_BASE_2122.cpp
+primerPrograma_REMOTE_3137.cpp.bak
